@@ -1,4 +1,18 @@
-# Config for BigQuery project/dataset names
-bigquery:
-  project: your-gcp-project
-  dataset: your-bq-dataset
+project_id: your-project
+location: us
+bq_dataset: product_qc
+bq_tables:
+  products: products
+  reviews: reviews
+  images: images
+  embeddings: embeddings
+  mismatches: mismatch_scores
+  corrections: corrections
+  metrics: metrics_runs
+gcs:
+  images_bucket: your-project-product-images
+  staging_bucket: your-project-staging
+app:
+  similarity_threshold: 0.70
+  high_severity_threshold: 0.85
+  topk_similar: 5

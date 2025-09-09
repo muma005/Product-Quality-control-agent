@@ -1,0 +1,1 @@
+-- SQL to create BigQuery Object Table for images

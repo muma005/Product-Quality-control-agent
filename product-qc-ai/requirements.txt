@@ -1,6 +1,10 @@
-# Python dependencies
+google-cloud-bigquery
+google-cloud-storage
+pandas
+pyyaml
+db-dtypes
+bigframes
 streamlit
 fastapi
-pandas
-numpy
-scikit-learn
+uvicorn[standard]
+pytest
