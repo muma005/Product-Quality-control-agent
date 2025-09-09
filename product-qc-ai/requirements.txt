@@ -1,0 +1,6 @@
+# Python dependencies
+streamlit
+fastapi
+pandas
+numpy
+scikit-learn

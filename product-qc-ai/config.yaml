@@ -1,0 +1,4 @@
+# Config for BigQuery project/dataset names
+bigquery:
+  project: your-gcp-project
+  dataset: your-bq-dataset
