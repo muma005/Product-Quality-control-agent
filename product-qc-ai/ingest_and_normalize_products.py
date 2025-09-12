@@ -4,7 +4,7 @@ from google.cloud import bigquery
 import re
 
 # --- CONFIG ---
-PROJECT_ID = "my_project_id"  # <-- Replace with your GCP project ID
+PROJECT_ID = "proj-product-qc-gmumabigq"  # <-- Replace with your GCP project ID
 DATASET_ID = "product_qc"
 TABLE_ID = f"{PROJECT_ID}.{DATASET_ID}.products"
 CSV_PATH = "./data/processed/products.csv"  # <-- Update path as needed

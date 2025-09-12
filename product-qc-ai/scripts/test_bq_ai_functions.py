@@ -1,6 +1,6 @@
 from google.cloud import bigquery
 
-PROJECT_ID = "my_project_id"  # <-- Replace with your GCP project ID
+PROJECT_ID = "proj-product-qc-gmumabigq"  # <-- Replace with your GCP project ID
 DATASET = "product_qc"
 PRODUCTS_TABLE = f"{PROJECT_ID}.{DATASET}.products"
 
