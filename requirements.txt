@@ -1,0 +1,7 @@
+pandas
+google-cloud-bigquery
+pyarrow
+db-dtypes
+matplotlib
+jupyter
+notebook

@@ -1,0 +1,51 @@
+product_id,product_name,text_description,image_path,ground_truth_flag,predicted_flag,score,category,price
+1,Fish Policy,War another forget week defense music day seek.,img/successful-group.jpg,1,,,ok,685.78
+2,Vote Again,Help interesting loss model food.,img/reality-claim-issue.jpg,0,,,forward,248.74
+3,Consumer Main,Whether notice west ok church fire.,img/list-question-spend.jpg,1,,,put,179.47
+4,So Way,Glass network who drug evidence say.,img/congress-two.jpg,0,,,before,337.06
+5,Wide Social,Own whose thank mind probably.,img/painting-me-heart.jpg,0,,,young,628.53
+6,Hundred Everybody,Defense stage adult.,img/medical-type-strong.jpg,1,,,which,671.05
+7,Tv Usually,Close road nor official appear best.,img/agency-direction.jpg,1,,,paper,757.98
+8,Yeah Military,Hold tell authority arm hotel western.,img/collection-several.jpg,1,,,despite,11.37
+9,Worker Life,Reality form walk as.,img/audience-suggest.jpg,1,,,attorney,111.05
+10,Question Moment,Evening anything draw hard woman special together.,img/myself-land.jpg,0,,,impact,831.2
+11,About Standard,Information read service.,img/national-new.jpg,0,,,little,700.71
+12,Medical Form,Trial star born wide.,img/why-challenge.jpg,1,,,hot,970.51
+13,With Way,Father region wait two.,img/into-mrs-daughter.jpg,0,,,interesting,313.82
+14,Cell The,View avoid fear practice too office recognize.,img/they-sister.jpg,0,,,receive,287.78
+15,Memory Between,Around ground important weight strategy minute.,img/prepare-picture.jpg,0,,,account,441.42
+16,Song Hotel,Realize compare main mind PM dog.,img/go-day-picture-whom.jpg,0,,,increase,825.43
+17,Still Western,Huge room win girl such.,img/final-federal.jpg,1,,,throughout,893.99
+18,Audience Enjoy,Blue factor bad best fight study past Mr.,img/answer-crime.jpg,1,,,partner,325.69
+19,Consider Station,Community reality our yard.,img/already-into-be.jpg,1,,,rest,196.6
+20,Often Relate,Institution may wife traditional music perhaps.,img/style-need-magazine.jpg,1,,,agree,83.4
+21,Own Interview,Within money south.,img/beautiful-ten-prove.jpg,0,,,none,806.28
+22,Sing Eat,Record something need factor while those education stand.,img/carry-concern.jpg,0,,,really,635.26
+23,Who Somebody,Dinner degree since food figure forget third.,img/guy-wish-ask-yard.jpg,1,,,window,875.45
+24,Quality Deep,Letter if administration know white air nothing.,img/produce-tax.jpg,0,,,measure,875.28
+25,Eye Can,Style explain industry.,img/interview-speak-run.jpg,1,,,special,198.65
+26,Best Value,Probably whom could.,img/worry-mouth.jpg,1,,,improve,216.62
+27,Box Drop,Quickly student responsibility risk computer.,img/none-institution.jpg,0,,,view,663.89
+28,Buy Morning,Food difference contain chair soldier charge.,img/analysis-billion.jpg,1,,,him,84.04
+29,Civil Big,Those event above garden reach environmental.,img/middle-blood-might.jpg,0,,,put,297.32
+30,Room Prove,Skill organization child security.,img/see-manage-benefit.jpg,0,,,with,527.46
+31,Relate Pick,Bring near across green image friend.,img/personal-wide-tree.jpg,0,,,serve,998.93
+32,Should Board,Away four popular least.,img/difference-about.jpg,0,,,any,656.96
+33,Capital Six,Movement plant anything value.,img/form-national.jpg,1,,,month,24.34
+34,Half Manage,Nation current class wide president social tell.,img/want-author-cost.jpg,1,,,move,312.25
+35,Recently Test,Always tell group actually else alone.,img/physical-check.jpg,1,,,early,379.81
+36,That Picture,State eye special physical.,img/none-floor-stuff.jpg,1,,,cultural,398.69
+37,Travel Yeah,Hope yard option.,img/paper-involve.jpg,0,,,program,933.37
+38,Expect Analysis,Help any call career drop physical should.,img/toward-draw-agency.jpg,1,,,thus,339.25
+39,Story Keep,Wide enter capital affect tell debate.,img/south-everything.jpg,1,,,wear,660.14
+40,Throw Nice,Live old strong half PM industry.,img/time-feel-minute.jpg,1,,,person,361.22
+41,Visit A,Way research debate indeed like.,img/concern-seek.jpg,0,,,region,888.83
+42,Outside So,Third their only discuss without method.,img/economic-growth-red.jpg,0,,,church,815.71
+43,Hot Key,History way almost old movie game understand.,img/cause-amount-thus.jpg,0,,,language,760.48
+44,Maintain Tree,Picture couple history third.,img/side-painting-a.jpg,1,,,health,305.22
+45,Throughout Conference,Clear allow message.,img/environmental-hotel.jpg,1,,,someone,124.16
+46,Part Do,Society beat medical tree few.,img/speech-care-center.jpg,1,,,our,472.25
+47,Accept Partner,Go health rate white staff heart.,img/goal-cup-area-child.jpg,0,,,room,839.21
+48,Start Product,Any perhaps north week involve floor.,img/here-example.jpg,1,,,discussion,163.89
+49,Who Another,Shoulder onto impact contain wonder.,img/save-worry-no-house.jpg,0,,,central,557.1
+50,West Republican,Home clear tend up case human avoid fact.,img/five-would-training.jpg,1,,,history,599.69

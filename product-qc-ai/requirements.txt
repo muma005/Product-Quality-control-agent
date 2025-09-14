@@ -1,3 +1,7 @@
+# For CLIP image embeddings
+torch
+transformers
+Pillow
 google-cloud-bigquery
 google-cloud-storage
 pandas
