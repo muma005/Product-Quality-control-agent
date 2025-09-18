@@ -21,7 +21,7 @@ from datetime import datetime
 from typing import Dict, Any
 
 # Add pipeline directory to path
-pipeline_dir = os.path.join(os.path.dirname(__file__), 'pipeline')
+pipeline_dir = os.path.join(os.path.dirname(__file__), '..', 'pipeline')
 sys.path.insert(0, pipeline_dir)
 
 try:

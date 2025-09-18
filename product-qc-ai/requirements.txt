@@ -1,14 +1,42 @@
-# For CLIP image embeddings
-torch
-transformers
-Pillow
-google-cloud-bigquery
-google-cloud-storage
-pandas
-pyyaml
-db-dtypes
-bigframes
-streamlit
-fastapi
-uvicorn[standard]
-pytest
+# ===== ACTUALLY USED DEPENDENCIES =====
+# Verified by checking imports across the entire codebase
+
+# Core ML and AI libraries 
+torch                    # Used in pipeline/embeddings.py for CLIP
+transformers            # Used in pipeline/embeddings.py for CLIP models  
+Pillow                  # Used for image processing
+numpy                   # Used extensively throughout all files
+scipy                   # Used for scipy.stats in advanced_analytics.py and predictive_insights.py
+scikit-learn           # Used for ML models: RandomForest, LinearRegression, PCA, KMeans, StandardScaler, etc.
+joblib                 # Required by scikit-learn for model persistence and parallel processing
+
+# Google Cloud services
+google-cloud-bigquery   # Core BigQuery integration used throughout
+google-cloud-storage    # Cloud storage used in pipeline
+google-auth            # Authentication
+google-auth-oauthlib   # OAuth authentication
+google-auth-httplib2   # HTTP authentication
+
+# Data processing and analysis
+pandas                  # Used extensively in all pages and components
+pyyaml                 # Configuration files
+db-dtypes              # BigQuery data types
+bigframes              # BigQuery DataFrames
+
+# Web frameworks
+streamlit              # Main UI framework - used in all pages
+fastapi                # API framework
+uvicorn[standard]      # ASGI server
+
+# Visualization
+plotly                 # Used extensively for all charts and graphs
+
+# System monitoring  
+psutil                 # Used in system_performance.py for system metrics
+
+# Testing
+pytest                 # Testing framework
+
+# Date and time handling
+python-dateutil        # Enhanced datetime functionality
+
